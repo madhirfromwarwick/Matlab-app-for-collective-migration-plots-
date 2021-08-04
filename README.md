@@ -10,7 +10,8 @@ How to install app onto Matlab:
 
 1.	Open Matlab and switch to the 'APPS' tab at the top left.
 2.	Click 'Install App'
-3.	Select the 
+3.	Open 'Imaris_Collective_Migration_Plots_1.mlappinstall' and proceed with the installation. 
+4.	The app should now show in the collection of matlab apps under the 'APPS' tab
 
 How to open the app editer (GUIDE) on Matlab and export the app:
 1.	Open Matlab and go onto MATLAB Preferences > General > Specify the full path to a folder and set the workspace directory to the location of the downloaded app\
