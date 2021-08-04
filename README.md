@@ -16,8 +16,8 @@ How to open the app editer (GUIDE) on Matlab and export the app:
 1.	Open Matlab and go onto MATLAB Preferences > General > Specify the full path to a folder and set the workspace directory to the location of the downloaded app
     1a. Alternative method is to use the 'Current Folder' embedded window on Matlab to navigate to the app file location.
 2.  Type into the matlab console:
-    ***open Imaris_Collective_Migration_Plots_3.mlapp***
-    \nThis should load the app designer window.
+    ***open Imaris_Collective_Migration_Plots_3.mlapp***\
+    This should load the app designer window.
     2a. Alternative method is to double click 'Imaris_Collective_Migration_Plots_3.mlapp' from the 'Current Folder' window
 3.  If you'd like to run the app from the app designer window, click 'Run' with the green play button symbol at the top under the 'DESIGNER' tab.
 4.  If you'd like to compile the app (into either a mountable Matlab app or web app or standalone executable), the options are provided under the 'DESIGNER' tab from the 'Share' button.
